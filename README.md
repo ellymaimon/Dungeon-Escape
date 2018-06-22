@@ -41,8 +41,8 @@ Features:
 
 ## Links
 
-* [Github Repo] (https://github.com/atrotter0/rpg-group-project)
-* [Github Pages] (https://atrotter0.github.io/rpg-group-project)
+* [Github Repo] (https://github.com/ellymaimon/rpg-group-project/)
+* [Github Pages] (https://ellymaimon.github.io/rpg-group-project/)
 
 ## License
 
