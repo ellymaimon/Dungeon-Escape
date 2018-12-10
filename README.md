@@ -1,4 +1,4 @@
-# RPG Group Project
+# Dungeon Escape
 
 #### Epicodus Intro to Programming Week 5 Group Project, 06.14.18
 
@@ -6,17 +6,23 @@
 
 ## Description
 
-An RPG click adventure built with JavaScript, jQuery, & Bootstrap! This project was built in 3 days for the Epicodus Intro to Programming Week 5 Group Project.
+**Dungeon Escape** is an RPG point-and-click adventure game built with JavaScript, jQuery, & Bootstrap! This project was built over the course of 4 days for the Epicodus Intro to Programming Week 5 Group Project.
 
-Features:
-* Character customization
-* Save Game / Load Game
-* Random loot drops
-* Multiple enemies
+**Key Features:**
+* Character customization and leveling
+* Save Game / Load Game options
+* Random enemy loot drops
+* Multiple enemy types
 * Classic 8-bit RPG music and sound effects
 * Turn-based battle system
-* Inventory system (currently non-functional)
+* Inventory system
 * Blood, sweat, and tears
+
+## Personal Contributions
+
+I had a hand in developing and designing most of the key features of the game and how these systems would work with one another.  
+
+My main contributions were the battle system, inventory, UI, and the save and load features.
 
 ## Setup/Contribution Requirements
 
@@ -36,13 +42,14 @@ Features:
 
 ## Known Issues
 
-* Inventory is not completely wired up yet.
+* Need a way to use consumable items in inventory.
+* Need a way to destroy items in inventory.
 * Needs another pass at game balance.
 
 ## Links
 
-* [Github Repo] (https://github.com/atrotter0/rpg-group-project)
-* [Github Pages] (https://atrotter0.github.io/rpg-group-project)
+* [Github Repo] (https://github.com/ellymaimon/rpg-group-project/)
+* [Github Pages] (https://ellymaimon.github.io/rpg-group-project/)
 
 ## License
 
